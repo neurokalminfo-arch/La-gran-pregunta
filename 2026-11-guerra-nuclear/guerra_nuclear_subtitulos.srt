@@ -1,0 +1,560 @@
+1
+00:00:00,250 --> 00:00:00,911
+Mañana.
+
+2
+00:00:00,961 --> 00:00:02,805
+Nueve y catorce de la mañana.
+
+3
+00:00:02,855 --> 00:00:06,545
+En algún lugar de Europa explota una sola bomba nuclear.
+
+4
+00:00:06,595 --> 00:00:07,373
+Pequeña.
+
+5
+00:00:07,423 --> 00:00:09,324
+De las menos potentes que existen.
+
+6
+00:00:09,374 --> 00:00:11,266
+Unas pocas horas después...
+
+7
+00:00:11,316 --> 00:00:15,285
+más de noventa millones de personas han muerto o están heridas.
+
+8
+00:00:15,335 --> 00:00:18,619
+Eso es lo que calculó una simulación de la Universidad de Princeton.
+
+9
+00:00:18,669 --> 00:00:21,464
+Y aun así... eso no sería lo peor.
+
+10
+00:00:21,514 --> 00:00:23,906
+Lo peor empezaría semanas más tarde.
+
+11
+00:00:23,956 --> 00:00:25,399
+Lejos de las bombas.
+
+12
+00:00:25,449 --> 00:00:30,250
+En un sitio en el que casi nadie piensa cuando imagina una guerra nuclear...
+
+13
+00:00:30,300 --> 00:00:30,398
+tu plato.
+
+14
+00:00:31,248 --> 00:00:32,421
+Vamos por partes.
+
+15
+00:00:32,471 --> 00:00:37,779
+Primero: ¿cómo puede una sola bomba pequeña acabar en noventa millones de víctimas?
+
+16
+00:00:37,829 --> 00:00:41,560
+Por una razón muy simple: nadie quiere ser el segundo.
+
+17
+00:00:41,610 --> 00:00:46,320
+Hoy hay más de dos mil cabezas nucleares montadas en misiles y en alerta máxima.
+
+18
+00:00:46,370 --> 00:00:49,136
+Casi todas son de Estados Unidos o de Rusia.
+
+19
+00:00:49,186 --> 00:00:53,367
+Un misil intercontinental tarda alrededor de media hora en cruzar el planeta.
+
+20
+00:00:53,417 --> 00:00:58,956
+Así que, si un país cree que le están atacando, tiene minutos —no días—
+
+21
+00:00:59,006 --> 00:00:59,356
+para decidir.
+
+22
+00:00:59,406 --> 00:01:00,547
+Y la lógica es brutal: si espero a confirmarlo,
+
+23
+00:01:00,597 --> 00:01:05,162
+puede que mis misiles ya no existan cuando quiera usarlos.
+
+24
+00:01:05,212 --> 00:01:09,623
+Por eso, en la simulación de Princeton, esa primera bomba provoca una respuesta.
+
+25
+00:01:09,673 --> 00:01:11,556
+Esa respuesta provoca otra.
+
+26
+00:01:11,606 --> 00:01:15,920
+Primero contra objetivos militares... después contra las armas del enemigo...
+
+27
+00:01:15,970 --> 00:01:18,069
+y al final, contra las ciudades.
+
+28
+00:01:18,119 --> 00:01:20,167
+Nadie decide destruir el mundo.
+
+29
+00:01:20,217 --> 00:01:22,424
+Cada uno solo responde al anterior.
+
+30
+00:01:23,274 --> 00:01:27,759
+Si te gusta entender lo que casi nadie explica, suscríbete a La Gran Pregunta.
+
+31
+00:01:27,809 --> 00:01:32,628
+Aquí cada vídeo empieza con una pregunta... y termina con una respuesta.
+
+32
+00:01:33,478 --> 00:01:36,661
+Segunda pregunta: ¿cuántas bombas hay en el mundo?
+
+33
+00:01:36,711 --> 00:01:37,889
+A principios de 2026,
+
+34
+00:01:37,939 --> 00:01:43,237
+el instituto SIPRI de Estocolmo contó unas doce mil cabezas nucleares.
+
+35
+00:01:43,287 --> 00:01:46,723
+Unas cuatro mil ya están desplegadas en misiles y aviones.
+
+36
+00:01:46,773 --> 00:01:48,244
+Para que te hagas una idea:
+
+37
+00:01:48,294 --> 00:01:52,679
+la bomba de Hiroshima tenía la fuerza de unas quince mil toneladas de dinamita.
+
+38
+00:01:52,729 --> 00:01:56,776
+Muchas de las cabezas actuales son decenas de veces más potentes.
+
+39
+00:01:56,826 --> 00:01:59,871
+Y solo dos países, Estados Unidos y Rusia,
+
+40
+00:01:59,921 --> 00:02:02,389
+tienen más del ochenta por ciento de todas.
+
+41
+00:02:02,439 --> 00:02:03,973
+Volvamos a la simulación.
+
+42
+00:02:04,023 --> 00:02:04,841
+En unas pocas horas,
+
+43
+00:02:04,891 --> 00:02:08,751
+Princeton calcula más de treinta y cuatro millones de muertos...
+
+44
+00:02:08,801 --> 00:02:11,637
+y más de cincuenta y siete millones de heridos.
+
+45
+00:02:11,687 --> 00:02:16,172
+Pero fíjate en un detalle: esas cifras solo cuentan las explosiones.
+
+46
+00:02:16,222 --> 00:02:18,097
+No cuentan lo que viene después.
+
+47
+00:02:18,947 --> 00:02:21,811
+Supongamos que tú no vives cerca de ningún objetivo.
+
+48
+00:02:21,861 --> 00:02:23,524
+Las bombas caen lejos.
+
+49
+00:02:23,574 --> 00:02:25,128
+Sobrevives al primer día.
+
+50
+00:02:25,178 --> 00:02:26,299
+¿Estás a salvo?
+
+51
+00:02:26,349 --> 00:02:27,571
+Durante las primeras semanas,
+
+52
+00:02:27,621 --> 00:02:31,434
+el viento arrastra polvo radiactivo a cientos de kilómetros.
+
+53
+00:02:31,484 --> 00:02:35,343
+Los hospitales que siguen en pie no pueden atender a millones de heridos.
+
+54
+00:02:35,393 --> 00:02:39,743
+Sin electricidad no hay bombeo de agua, ni frigoríficos, ni internet.
+
+55
+00:02:39,793 --> 00:02:44,612
+Pero todo esto, por terrible que sea, afecta sobre todo a los países en guerra.
+
+56
+00:02:44,662 --> 00:02:49,296
+Lo que convierte una guerra nuclear en un problema de todo el planeta es otra cosa.
+
+57
+00:02:49,346 --> 00:02:50,923
+Y no es la radiación.
+
+58
+00:02:51,773 --> 00:02:52,853
+Es el humo.
+
+59
+00:02:52,903 --> 00:02:57,436
+Cuando una bomba nuclear cae sobre una ciudad, no solo destruye edificios.
+
+60
+00:02:57,486 --> 00:02:59,818
+Provoca incendios gigantescos.
+
+61
+00:02:59,868 --> 00:03:03,237
+Millones de toneladas de hollín negro suben hacia el cielo.
+
+62
+00:03:03,287 --> 00:03:04,642
+Y aquí está la clave:
+
+63
+00:03:04,692 --> 00:03:08,995
+ese humo sube tan alto que supera la altura donde se forman las nubes.
+
+64
+00:03:09,045 --> 00:03:10,796
+Llega a la estratosfera.
+
+65
+00:03:10,846 --> 00:03:12,451
+Allí arriba no llueve.
+
+66
+00:03:12,501 --> 00:03:13,793
+Nada lo limpia.
+
+67
+00:03:13,843 --> 00:03:16,844
+Así que el humo se queda... durante años.
+
+68
+00:03:16,894 --> 00:03:22,222
+Rodea el planeta entero y funciona como una sombrilla negra que tapa parte de la luz del Sol.
+
+69
+00:03:22,272 --> 00:03:24,785
+Menos luz significa menos calor.
+
+70
+00:03:24,835 --> 00:03:28,078
+Y menos calor significa que los cultivos no crecen.
+
+71
+00:03:28,128 --> 00:03:30,959
+Los científicos lo llaman invierno nuclear.
+
+72
+00:03:31,809 --> 00:03:34,003
+Antes de seguir, una pregunta para ti.
+
+73
+00:03:34,053 --> 00:03:36,292
+En ese mundo sin cosechas...
+
+74
+00:03:36,342 --> 00:03:38,694
+¿qué país crees que tendría más comida?
+
+75
+00:03:38,744 --> 00:03:40,364
+Escríbelo en los comentarios.
+
+76
+00:03:40,414 --> 00:03:42,208
+Al final te digo si acertaste.
+
+77
+00:03:43,058 --> 00:03:43,497
+En 2022,
+
+78
+00:03:43,547 --> 00:03:49,393
+un equipo de científicos publicó en la revista Nature Food el estudio más completo sobre esto.
+
+79
+00:03:49,443 --> 00:03:54,255
+Calcularon qué pasaría con las cosechas del mundo tras distintos tipos de guerra nuclear.
+
+80
+00:03:54,305 --> 00:03:57,531
+Empezaron por una guerra pequeña, entre India y Pakistán.
+
+81
+00:03:57,581 --> 00:03:58,948
+Solo con eso,
+
+82
+00:03:58,998 --> 00:04:02,958
+la producción mundial de alimentos caería un siete por ciento en cinco años.
+
+83
+00:04:03,008 --> 00:04:07,865
+Un siete por ciento menos de comida... para ocho mil millones de personas.
+
+84
+00:04:07,915 --> 00:04:13,147
+Después calcularon el peor escenario: una guerra total entre Estados Unidos y Rusia.
+
+85
+00:04:13,197 --> 00:04:14,888
+Tres o cuatro años después,
+
+86
+00:04:14,938 --> 00:04:19,157
+las calorías que produce el planeta caerían alrededor de un noventa por ciento.
+
+87
+00:04:19,207 --> 00:04:20,750
+En solo dos años,
+
+88
+00:04:20,800 --> 00:04:24,639
+más de tres de cada cuatro personas en la Tierra estarían pasando hambre.
+
+89
+00:04:24,689 --> 00:04:29,173
+Y el resultado final: más de cinco mil millones de muertos por hambre.
+
+90
+00:04:29,223 --> 00:04:31,382
+Cinco mil millones.
+
+91
+00:04:31,432 --> 00:04:34,401
+Frente a noventa millones de víctimas de las bombas.
+
+92
+00:04:34,452 --> 00:04:37,858
+Por eso decía al principio que las bombas no serían lo peor.
+
+93
+00:04:37,908 --> 00:04:40,131
+Y hay algo todavía más inquietante:
+
+94
+00:04:40,181 --> 00:04:44,169
+muchos de los países que más sufrirían ni siquiera estarían en guerra.
+
+95
+00:04:44,219 --> 00:04:45,424
+En los mapas del estudio,
+
+96
+00:04:45,474 --> 00:04:49,699
+Canadá y gran parte de Europa aparecen entre las zonas con más hambre.
+
+97
+00:04:50,549 --> 00:04:54,893
+Si este dato te ha cambiado la idea que tenías de una guerra nuclear, dale a like.
+
+98
+00:04:54,943 --> 00:04:58,310
+Así YouTube sabe que este vídeo merece llegar a más gente.
+
+99
+00:04:59,160 --> 00:05:01,958
+Ahora sí, la respuesta a la pregunta de antes.
+
+100
+00:05:02,008 --> 00:05:04,297
+¿Qué países saldrían mejor parados?
+
+101
+00:05:04,347 --> 00:05:08,550
+En los mapas del estudio destacan dos: Argentina y Australia.
+
+102
+00:05:08,600 --> 00:05:09,433
+¿Por qué?
+
+103
+00:05:09,483 --> 00:05:14,504
+Una razón probable: están en el hemisferio sur, lejos de los principales objetivos,
+
+104
+00:05:14,554 --> 00:05:17,099
+y producen mucha más comida de la que consumen.
+
+105
+00:05:17,149 --> 00:05:21,554
+Y fíjate en la paradoja: en una guerra entre las mayores potencias del mundo,
+
+106
+00:05:21,604 --> 00:05:26,435
+quienes mejor podrían resistir serían dos países que no tendrían nada que ver con ella.
+
+107
+00:05:26,485 --> 00:05:29,621
+Si lo acertaste en los comentarios... enhorabuena.
+
+108
+00:05:30,471 --> 00:05:31,526
+Última pregunta.
+
+109
+00:05:31,576 --> 00:05:35,264
+Con más de doce mil bombas y decisiones que se toman en minutos...
+
+110
+00:05:35,314 --> 00:05:37,005
+¿por qué no ha pasado nunca?
+
+111
+00:05:37,055 --> 00:05:39,941
+Parte de la respuesta es justo lo que acabas de ver:
+
+112
+00:05:39,991 --> 00:05:42,175
+todos saben que no habría ganador.
+
+113
+00:05:42,225 --> 00:05:44,729
+Pero la otra parte es más inquietante.
+
+114
+00:05:44,779 --> 00:05:46,396
+Porque ha estado cerca.
+
+115
+00:05:46,446 --> 00:05:49,675
+Veintiséis de septiembre de 1983.
+
+116
+00:05:49,725 --> 00:05:51,372
+Un búnker cerca de Moscú.
+
+117
+00:05:51,422 --> 00:05:59,461
+El oficial soviético Stanislav Petrov está de guardia cuando el sistema de alerta marca que Estados Unidos ha lanzado misiles contra la Unión Soviética.
+
+118
+00:05:59,511 --> 00:06:01,917
+Su deber es informar a sus superiores.
+
+119
+00:06:01,967 --> 00:06:04,499
+Y eso podría desencadenar una respuesta.
+
+120
+00:06:04,549 --> 00:06:07,366
+Petrov piensa que, si Estados Unidos atacara de verdad,
+
+121
+00:06:07,416 --> 00:06:09,807
+no lo haría con un puñado de misiles.
+
+122
+00:06:09,857 --> 00:06:11,727
+Decide que es un error del sistema.
+
+123
+00:06:11,777 --> 00:06:13,594
+Y no lo comunica como un ataque.
+
+124
+00:06:13,644 --> 00:06:14,667
+Tenía razón.
+
+125
+00:06:14,717 --> 00:06:16,176
+Era una falsa alarma.
+
+126
+00:06:16,226 --> 00:06:19,685
+Ese día, la diferencia entre el mundo de este vídeo y el nuestro...
+
+127
+00:06:19,735 --> 00:06:22,143
+fue la decisión de una sola persona.
+
+128
+00:06:22,993 --> 00:06:24,817
+Hoy el Reloj del Juicio Final,
+
+129
+00:06:24,867 --> 00:06:29,200
+el que usan los científicos atómicos para medir lo cerca que estamos de la catástrofe,
+
+130
+00:06:29,250 --> 00:06:32,493
+marca ochenta y cinco segundos para la medianoche.
+
+131
+00:06:32,543 --> 00:06:34,693
+Nunca había estado tan cerca.
+
+132
+00:06:34,743 --> 00:06:36,943
+Pero un reloj no es una profecía.
+
+133
+00:06:36,993 --> 00:06:41,129
+Lo mueven las decisiones de las personas... y se puede volver a atrasar.
+
+134
+00:06:41,179 --> 00:06:45,801
+Así que, si alguien te pregunta qué pasaría si mañana estallara una guerra nuclear,
+
+135
+00:06:45,851 --> 00:06:47,306
+ya sabes la respuesta.
+
+136
+00:06:47,356 --> 00:06:49,585
+Lo peor no serían las bombas.
+
+137
+00:06:49,635 --> 00:06:52,096
+Sería todo lo que dejaríamos de cultivar.
+
+138
+00:06:52,946 --> 00:06:57,690
+Y si te has quedado pensando en un cielo sin Sol... tengo otra pregunta para ti.
+
+139
+00:06:57,740 --> 00:07:00,750
+¿Qué pasaría si el Sol desapareciera de golpe?
+
+140
+00:07:00,800 --> 00:07:02,300
+Te espero en ese vídeo.
+
