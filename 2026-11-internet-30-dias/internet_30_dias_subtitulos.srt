@@ -1,0 +1,640 @@
+1
+00:00:00,300 --> 00:00:01,742
+Son las nueve y cuarto.
+
+2
+00:00:01,792 --> 00:00:06,234
+Pagas el café con el móvil... y la pantalla dice: sin conexión.
+
+3
+00:00:06,284 --> 00:00:07,517
+No es tu móvil.
+
+4
+00:00:07,567 --> 00:00:09,196
+Es el planeta entero.
+
+5
+00:00:09,246 --> 00:00:09,716
+Hoy vamos a ver, día a día,
+
+6
+00:00:09,766 --> 00:00:15,225
+qué pasaría si Internet se apagara en todo el mundo durante treinta días.
+
+7
+00:00:15,275 --> 00:00:18,473
+Qué le pasa a tu dinero, a tu comida y a tu trabajo.
+
+8
+00:00:18,523 --> 00:00:20,012
+Y quédate hasta el final.
+
+9
+00:00:20,062 --> 00:00:24,055
+Porque una de las mayores navieras del mundo vivió algo muy parecido...
+
+10
+00:00:24,105 --> 00:00:27,424
+y se salvó gracias a un ordenador olvidado en África.
+
+11
+00:00:27,474 --> 00:00:31,571
+Lo que tenía ese ordenador es exactamente lo que podría salvarte a ti.
+
+12
+00:00:32,621 --> 00:00:37,536
+Antes de que pienses que esto es ciencia ficción: el diecinueve de julio de 2024,
+
+13
+00:00:37,586 --> 00:00:41,596
+una sola actualización defectuosa de un programa de seguridad, CrowdStrike,
+
+14
+00:00:41,646 --> 00:00:45,381
+tumbó unos ocho millones y medio de ordenadores en todo el mundo.
+
+15
+00:00:45,431 --> 00:00:48,890
+Aeropuertos parados.
+
+16
+00:00:48,940 --> 00:00:50,667
+Hospitales cancelando operaciones.
+
+17
+00:00:50,717 --> 00:00:51,067
+Bancos sin sistemas.
+
+18
+00:00:51,117 --> 00:00:52,656
+Según la aseguradora Parametrix,
+
+19
+00:00:52,706 --> 00:00:59,313
+solo las quinientas mayores empresas de Estados Unidos perdieron unos cinco mil cuatrocientos millones de dólares.
+
+20
+00:00:59,363 --> 00:01:01,606
+Y fue un único programa fallando.
+
+21
+00:01:01,656 --> 00:01:03,059
+No Internet entero.
+
+22
+00:01:03,109 --> 00:01:05,210
+Ahora imagina el apagón de verdad.
+
+23
+00:01:05,260 --> 00:01:06,287
+Hora uno: el primer golpe es el dinero.
+
+24
+00:01:06,337 --> 00:01:12,559
+Cada vez que pagas con tarjeta, el datáfono le pregunta a tu banco si tienes saldo.
+
+25
+00:01:12,609 --> 00:01:13,645
+Sin conexión, nadie responde.
+
+26
+00:01:13,695 --> 00:01:17,500
+Y en España ya sabemos cómo se ve eso.
+
+27
+00:01:17,550 --> 00:01:21,036
+El veintiocho de abril de 2025, durante el gran apagón,
+
+28
+00:01:21,086 --> 00:01:28,823
+CaixaBank Research calculó que a partir de las doce y media de la tarde solo alrededor del diez por ciento de los comercios lograba cobrar con tarjeta.
+
+29
+00:01:28,873 --> 00:01:31,289
+Las colas se movieron a los cajeros.
+
+30
+00:01:31,339 --> 00:01:33,186
+Y aquel apagón duró unas horas.
+
+31
+00:01:33,236 --> 00:01:35,727
+El nuestro dura treinta días.
+
+32
+00:01:35,777 --> 00:01:39,109
+Así que la mayoría comete el mismo error en la primera hora:
+
+33
+00:01:39,159 --> 00:01:41,714
+pensar que es un fallo pasajero y esperar.
+
+34
+00:01:41,764 --> 00:01:42,141
+Mientras tanto,
+
+35
+00:01:42,191 --> 00:01:46,116
+quien entiende lo que está pasando ya está haciendo cola en el cajero.
+
+36
+00:01:46,166 --> 00:01:49,142
+Porque los cajeros también necesitan hablar con tu banco.
+
+37
+00:01:49,192 --> 00:01:52,021
+Pero el dinero, curiosamente, no es lo peor.
+
+38
+00:01:52,071 --> 00:01:54,833
+El verdadero problema empieza el día tres.
+
+39
+00:01:54,883 --> 00:01:56,607
+Y empieza en un camión.
+
+40
+00:01:57,657 --> 00:02:00,262
+Un supermercado moderno apenas tiene almacén.
+
+41
+00:02:00,312 --> 00:02:04,731
+Funciona casi al minuto: cada producto que pasa por caja avisa al sistema,
+
+42
+00:02:04,781 --> 00:02:08,091
+el sistema pide más, y un camión sale esa misma noche.
+
+43
+00:02:08,141 --> 00:02:11,201
+Es eficiente... mientras hay conexión.
+
+44
+00:02:11,251 --> 00:02:14,190
+Sin Internet, las cajas no saben qué se vende.
+
+45
+00:02:14,240 --> 00:02:15,869
+Los pedidos no llegan.
+
+46
+00:02:15,919 --> 00:02:17,771
+Los camiones no saben a dónde ir,
+
+47
+00:02:17,821 --> 00:02:20,866
+y los puertos no saben qué contenedor va en qué barco.
+
+48
+00:02:20,916 --> 00:02:24,713
+Las gasolineras funcionan con bombas eléctricas y pagos con tarjeta.
+
+49
+00:02:24,763 --> 00:02:28,261
+Y en las farmacias, la receta electrónica deja de existir.
+
+50
+00:02:28,311 --> 00:02:33,705
+No es casualidad que, en el fallo de CrowdStrike,
+
+51
+00:02:33,755 --> 00:02:36,397
+el sector que más dinero perdió fuera la sanidad: casi dos mil millones de dólares.
+
+52
+00:02:36,447 --> 00:02:40,805
+Entre los expertos en seguridad alimentaria circula una frase inquietante:
+
+53
+00:02:40,855 --> 00:02:45,986
+cualquier sociedad está a solo nueve comidas de la anarquía.
+
+54
+00:02:46,036 --> 00:02:47,471
+Tres días.
+
+55
+00:02:47,521 --> 00:02:49,598
+Y no es tan exagerado: en marzo de 2025,
+
+56
+00:02:49,648 --> 00:02:57,977
+la Comisión Europea pidió a los ciudadanos que tengan en casa lo necesario para aguantar setenta y dos horas solos ante una crisis.
+
+57
+00:02:58,027 --> 00:03:00,167
+Tres días.
+
+58
+00:03:00,217 --> 00:03:01,846
+Nosotros vamos por el día tres.
+
+59
+00:03:01,896 --> 00:03:02,246
+Y quedan veintisiete.
+
+60
+00:03:02,296 --> 00:03:06,555
+Y aquí llega la pregunta que da miedo de verdad: si todo está apagado...
+
+61
+00:03:06,605 --> 00:03:08,451
+¿mi dinero sigue existiendo?
+
+62
+00:03:09,501 --> 00:03:11,526
+Aquí está lo que casi nadie entiende:
+
+63
+00:03:11,576 --> 00:03:15,578
+tu dinero en el banco no es un montón de billetes en una caja fuerte.
+
+64
+00:03:15,628 --> 00:03:18,055
+Es un número en una base de datos.
+
+65
+00:03:18,105 --> 00:03:21,310
+La buena noticia: los bancos tienen copias de seguridad,
+
+66
+00:03:21,360 --> 00:03:23,887
+así que ese número no desaparecería.
+
+67
+00:03:23,937 --> 00:03:24,883
+La mala: no podrías tocarlo.
+
+68
+00:03:24,933 --> 00:03:26,492
+Ni transferencias, ni Bizum, ni tarjeta.
+
+69
+00:03:26,542 --> 00:03:33,269
+Las bolsas, que hoy son cien por cien electrónicas, tendrían que cerrar.
+
+70
+00:03:33,319 --> 00:03:36,169
+Y si tu empresa paga las nóminas por transferencia... este mes no hay nómina.
+
+71
+00:03:36,219 --> 00:03:40,795
+En la primera semana, el efectivo pasa a ser el rey.
+
+72
+00:03:40,845 --> 00:03:43,110
+Quien tiene billetes en casa puede comprar.
+
+73
+00:03:43,160 --> 00:03:44,845
+Quien lo tenía todo en el móvil... depende de otros.
+
+74
+00:03:44,895 --> 00:03:48,912
+Y cuando vuelve la conexión, llega la avalancha: según BBVA Research,
+
+75
+00:03:48,962 --> 00:03:51,482
+dos días después del apagón de abril,
+
+76
+00:03:51,532 --> 00:03:57,426
+el gasto con tarjeta en España estaba un treinta y siete por ciento por encima de lo normal.
+
+77
+00:03:57,476 --> 00:04:00,361
+Todo lo que no se pudo comprar, se compró de golpe.
+
+78
+00:04:00,411 --> 00:04:01,781
+Y cuando el efectivo escasea,
+
+79
+00:04:01,831 --> 00:04:06,249
+vuelve algo que no veíamos desde hace siglos a gran escala: el trueque.
+
+80
+00:04:06,299 --> 00:04:08,590
+Una bombona de butano a cambio de comida.
+
+81
+00:04:08,640 --> 00:04:10,884
+Horas de trabajo a cambio de gasolina.
+
+82
+00:04:10,934 --> 00:04:15,263
+Cuéntamelo en los comentarios: ahora mismo, ¿cuánto efectivo tienes en casa?
+
+83
+00:04:15,313 --> 00:04:17,031
+¿Te llegaría para una semana?
+
+84
+00:04:17,081 --> 00:04:21,000
+Y si no hay nómina, la siguiente pregunta es obvia: ¿y mi trabajo?
+
+85
+00:04:22,050 --> 00:04:24,077
+Piensa en tu trabajo de un lunes normal.
+
+86
+00:04:24,127 --> 00:04:28,611
+Correo, videollamadas, documentos en la nube, el programa de la empresa.
+
+87
+00:04:28,661 --> 00:04:31,712
+Sin Internet, todo eso desaparece a la vez.
+
+88
+00:04:31,762 --> 00:04:37,345
+Para millones de personas que trabajan desde casa, el trabajo, literalmente,
+
+89
+00:04:37,395 --> 00:04:37,745
+deja de existir.
+
+90
+00:04:37,795 --> 00:04:39,000
+Y no hace falta imaginarlo: el día del fallo de CrowdStrike,
+
+91
+00:04:39,050 --> 00:04:45,252
+la consultora Cirium contó casi cuatro mil vuelos cancelados en todo el mundo.
+
+92
+00:04:45,302 --> 00:04:48,491
+Las aerolíneas no se quedaron sin aviones ni sin pilotos.
+
+93
+00:04:48,541 --> 00:04:50,423
+Se quedaron sin sistemas.
+
+94
+00:04:50,473 --> 00:04:51,660
+Con un apagón de treinta días,
+
+95
+00:04:51,710 --> 00:04:55,555
+lo primero en pararse sería todo lo que vive dentro de una pantalla:
+
+96
+00:04:55,605 --> 00:05:00,609
+la banca online, el comercio electrónico, el marketing digital,
+
+97
+00:05:00,659 --> 00:05:02,314
+la atención al cliente.
+
+98
+00:05:02,364 --> 00:05:02,714
+Y aquí viene la paradoja.
+
+99
+00:05:02,764 --> 00:05:06,855
+Los trabajos que de repente valen más son los que llevamos años infravalorando.
+
+100
+00:05:06,905 --> 00:05:09,099
+El electricista que arregla un generador.
+
+101
+00:05:09,149 --> 00:05:10,029
+El mecánico.
+
+102
+00:05:10,079 --> 00:05:11,122
+El agricultor.
+
+103
+00:05:11,172 --> 00:05:14,037
+El médico que sabe trabajar con papel y bolígrafo.
+
+104
+00:05:14,087 --> 00:05:18,631
+En una crisis así, saber hacer algo con las manos vale más que cualquier título.
+
+105
+00:05:18,681 --> 00:05:20,535
+La primera semana es dura.
+
+106
+00:05:20,585 --> 00:05:22,734
+Pero lo más extraño empieza después,
+
+107
+00:05:22,784 --> 00:05:25,679
+cuando el mundo descubre lo frágil que era la conexión...
+
+108
+00:05:25,729 --> 00:05:27,646
+y lo difícil que será volver.
+
+109
+00:05:28,696 --> 00:05:31,788
+Para entender por qué esto es posible, mira debajo del mar.
+
+110
+00:05:31,838 --> 00:05:34,002
+Según la consultora TeleGeography,
+
+111
+00:05:34,052 --> 00:05:41,017
+más del noventa y nueve por ciento de los datos que viajan entre continentes pasan por cables submarinos.
+
+112
+00:05:41,067 --> 00:05:43,413
+No por satélites: por cables en el fondo del océano.
+
+113
+00:05:43,463 --> 00:05:46,621
+Sin ellos, cada continente se convierte en una isla.
+
+114
+00:05:46,671 --> 00:05:51,159
+Quizá algunas redes locales vuelven antes: la de una ciudad, la de un país.
+
+115
+00:05:51,209 --> 00:05:53,330
+Pero ya no hay una Internet mundial.
+
+116
+00:05:53,380 --> 00:05:58,062
+Y la sociedad hace algo sorprendente: retrocede treinta años.
+
+117
+00:05:58,112 --> 00:06:01,046
+La radio vuelve a ser la principal fuente de noticias.
+
+118
+00:06:01,096 --> 00:06:03,414
+Los ayuntamientos cuelgan avisos en papel.
+
+119
+00:06:03,464 --> 00:06:05,733
+Los vecinos se organizan como en un pueblo: quién tiene generador,
+
+120
+00:06:05,783 --> 00:06:09,754
+quién tiene coche, quién sabe de primeros auxilios.
+
+121
+00:06:09,804 --> 00:06:12,794
+El comercio de barrio, el que acepta efectivo y fiado,
+
+122
+00:06:12,844 --> 00:06:15,135
+sobrevive mejor que una gran superficie.
+
+123
+00:06:15,185 --> 00:06:18,373
+Y entonces, el día treinta, la conexión vuelve.
+
+124
+00:06:18,423 --> 00:06:19,819
+Fin del problema, ¿no?
+
+125
+00:06:19,869 --> 00:06:20,844
+Pues no.
+
+126
+00:06:20,894 --> 00:06:26,296
+Porque volver a encender millones de sistemas a la vez es justo cuando todo puede salir mal.
+
+127
+00:06:26,346 --> 00:06:31,235
+Y eso nos lleva a lo que pasó en 2017 en una de las mayores navieras del planeta.
+
+128
+00:06:32,285 --> 00:06:33,883
+Junio de 2017.
+
+129
+00:06:33,933 --> 00:06:38,471
+Un virus llamado NotPetya se extiende por el mundo y borra ordenadores.
+
+130
+00:06:38,521 --> 00:06:42,372
+Una de sus víctimas es Maersk, gigante del transporte marítimo.
+
+131
+00:06:42,422 --> 00:06:45,307
+En horas, la empresa se queda sin sistemas:
+
+132
+00:06:45,357 --> 00:06:48,130
+setenta y seis terminales portuarias afectadas,
+
+133
+00:06:48,180 --> 00:06:50,677
+contenedores que nadie sabe dónde van.
+
+134
+00:06:50,727 --> 00:06:52,484
+No era un apagón de Internet, pero el resultado fue el mismo:
+
+135
+00:06:52,534 --> 00:06:54,150
+una empresa global sin ordenadores.
+
+136
+00:06:54,200 --> 00:06:59,751
+Para volver a arrancar necesitaban una pieza clave:
+
+137
+00:06:59,801 --> 00:07:02,772
+la base de datos que dice quién es quién en la red.
+
+138
+00:07:02,822 --> 00:07:06,016
+Y el virus la había borrado en todos sus servidores.
+
+139
+00:07:06,066 --> 00:07:07,275
+En todos... menos en uno.
+
+140
+00:07:07,325 --> 00:07:08,480
+En una oficina de Ghana,
+
+141
+00:07:08,530 --> 00:07:14,926
+un apagón eléctrico había dejado un servidor desconectado justo cuando llegó el virus.
+
+142
+00:07:14,976 --> 00:07:17,253
+Por estar desconectado, se salvó.
+
+143
+00:07:17,303 --> 00:07:20,673
+Cuando lo encontraron, en la oficina hubo gritos de alegría.
+
+144
+00:07:20,723 --> 00:07:22,115
+Pero quedaba un problema:
+
+145
+00:07:22,165 --> 00:07:25,474
+la conexión de Ghana era demasiado lenta para enviar la copia.
+
+146
+00:07:25,524 --> 00:07:27,504
+Así que la llevaron en mano.
+
+147
+00:07:27,554 --> 00:07:30,669
+Y como nadie en la oficina de Ghana tenía visado británico,
+
+148
+00:07:30,719 --> 00:07:32,654
+un empleado voló primero a Nigeria,
+
+149
+00:07:32,704 --> 00:07:36,505
+y allí otro compañero la recogió y la llevó en avión hasta Londres.
+
+150
+00:07:36,555 --> 00:07:38,248
+Con esa única copia,
+
+151
+00:07:38,298 --> 00:07:44,223
+Maersk reinstaló más de cuatro mil servidores y cuarenta y cinco mil ordenadores en unos diez días.
+
+152
+00:07:44,273 --> 00:07:45,911
+Y esa es la respuesta.
+
+153
+00:07:45,961 --> 00:07:49,792
+En un mundo que se apaga, lo que te salva no es lo que tienes conectado:
+
+154
+00:07:49,842 --> 00:07:51,870
+es lo que tienes desconectado.
+
+155
+00:07:51,920 --> 00:07:53,262
+El efectivo en casa.
+
+156
+00:07:53,312 --> 00:07:55,840
+Los teléfonos importantes apuntados en papel.
+
+157
+00:07:55,890 --> 00:07:58,615
+Una copia de tus documentos fuera de la nube.
+
+158
+00:07:58,665 --> 00:08:02,092
+Y si te preguntas qué pasaría si lo que se apagara fuera el Sol,
+
+159
+00:08:02,142 --> 00:08:03,815
+tienes el vídeo justo aquí.
+
+160
+00:08:03,865 --> 00:08:06,590
+Suscríbete a La Gran Pregunta y te veo dentro.
+
