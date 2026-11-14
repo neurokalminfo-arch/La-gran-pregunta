@@ -1,0 +1,676 @@
+1
+00:00:00,300 --> 00:00:02,594
+Imagina un planeta idéntico al nuestro.
+
+2
+00:00:02,644 --> 00:00:05,243
+Mismos continentes, mismos océanos.
+
+3
+00:00:05,293 --> 00:00:06,762
+Con una sola diferencia: gira al revés.
+
+4
+00:00:06,812 --> 00:00:08,400
+Allí, el Sol sale por el oeste.
+
+5
+00:00:08,450 --> 00:00:10,785
+Y eso es lo de menos.
+
+6
+00:00:10,835 --> 00:00:15,541
+En invierno, el mar se congela alrededor de Gran Bretaña...
+
+7
+00:00:15,591 --> 00:00:19,850
+y el hielo llega hasta el golfo de Vizcaya, a las puertas del norte de España.
+
+8
+00:00:19,900 --> 00:00:24,984
+El Sáhara, el mayor desierto cálido del mundo, se cubre de bosques y praderas.
+
+9
+00:00:25,034 --> 00:00:29,812
+Y Argentina y el sur de Brasil se convierten en el mayor desierto de la Tierra.
+
+10
+00:00:29,862 --> 00:00:31,692
+No es ciencia ficción.
+
+11
+00:00:31,742 --> 00:00:37,754
+Un equipo de científicos alemanes simuló este planeta en un superordenador durante casi siete mil años.
+
+12
+00:00:37,804 --> 00:00:41,448
+Hoy vas a ver qué le pasaría a tu país... y por qué.
+
+13
+00:00:41,498 --> 00:00:43,007
+Y quédate hasta el final.
+
+14
+00:00:43,057 --> 00:00:48,211
+Porque aquí al lado hay un planeta donde esto ya es real: el Sol sale por el oeste.
+
+15
+00:00:48,261 --> 00:00:51,476
+Y nadie sabe con certeza cómo llegó a girar así.
+
+16
+00:00:52,526 --> 00:00:54,205
+Primero, la objeción obvia.
+
+17
+00:00:54,255 --> 00:00:58,290
+Si la Tierra frenara de golpe para girar hacia el otro lado, sería el fin:
+
+18
+00:00:58,340 --> 00:01:03,060
+en el ecuador, el suelo se mueve a unos mil seiscientos setenta kilómetros por hora.
+
+19
+00:01:03,110 --> 00:01:06,182
+Todo lo que no estuviera pegado a la roca saldría disparado.
+
+20
+00:01:06,232 --> 00:01:10,488
+Por eso los científicos se hicieron otra pregunta, mucho más interesante:
+
+21
+00:01:10,538 --> 00:01:13,434
+¿y si la Tierra siempre hubiera girado al revés?
+
+22
+00:01:13,484 --> 00:01:16,546
+Mismos mares, mismas montañas, mismo Sol.
+
+23
+00:01:16,596 --> 00:01:18,757
+Solo cambia el sentido del giro.
+
+24
+00:01:18,807 --> 00:01:20,639
+¿Y por qué gira hacia donde gira?
+
+25
+00:01:20,689 --> 00:01:21,800
+Por cómo nació.
+
+26
+00:01:21,850 --> 00:01:24,661
+Hace unos cuatro mil seiscientos millones de años,
+
+27
+00:01:24,711 --> 00:01:27,707
+el sistema solar era una nube de gas y polvo dando vueltas.
+
+28
+00:01:27,757 --> 00:01:31,058
+Casi todo lo que se formó dentro heredó ese mismo giro.
+
+29
+00:01:31,108 --> 00:01:35,938
+Como una bailarina que recoge los brazos... y sigue girando hacia el mismo lado.
+
+30
+00:01:35,988 --> 00:01:39,225
+En 2018, el Instituto Max Planck de Meteorología,
+
+31
+00:01:39,275 --> 00:01:44,038
+junto al Centro Alemán de Computación Climática y las universidades de Hamburgo y Reading,
+
+32
+00:01:44,088 --> 00:01:46,948
+metió esa Tierra al revés en un superordenador.
+
+33
+00:01:46,998 --> 00:01:50,612
+Y la dejó evolucionar durante casi siete mil años simulados.
+
+34
+00:01:50,662 --> 00:01:55,821
+Y su primer resultado sorprende: la temperatura media del planeta casi no cambia.
+
+35
+00:01:55,871 --> 00:01:59,809
+Lo que cambia por completo es dónde hace frío, dónde llueve...
+
+36
+00:01:59,859 --> 00:02:01,794
+y dónde no llueve nunca.
+
+37
+00:02:01,844 --> 00:02:05,588
+Si te gustan estas preguntas imposibles, suscríbete a La Gran Pregunta.
+
+38
+00:02:05,638 --> 00:02:07,323
+Cada semana, una nueva.
+
+39
+00:02:07,373 --> 00:02:10,303
+Para entender por qué cambia todo, imagina un tiovivo.
+
+40
+00:02:10,353 --> 00:02:14,078
+Estás en el centro y le lanzas una pelota a un amigo que está en el borde.
+
+41
+00:02:14,128 --> 00:02:16,093
+Para ti, la pelota va recta.
+
+42
+00:02:16,143 --> 00:02:20,608
+Pero mientras vuela, el tiovivo gira... y la pelota acaba torcida.
+
+43
+00:02:20,658 --> 00:02:22,692
+Eso es el efecto Coriolis.
+
+44
+00:02:22,742 --> 00:02:25,097
+Y la Tierra es un tiovivo gigante.
+
+45
+00:02:25,147 --> 00:02:25,497
+Por cierto:
+
+46
+00:02:25,547 --> 00:02:29,543
+lo de que el agua del váter gira hacia un lado en cada hemisferio es un mito.
+
+47
+00:02:29,593 --> 00:02:32,176
+El efecto es demasiado débil para algo tan pequeño.
+
+48
+00:02:32,226 --> 00:02:35,193
+Pero sobre miles de kilómetros de aire y de mar,
+
+49
+00:02:35,243 --> 00:02:37,694
+es lo que decide hacia dónde sopla el viento.
+
+50
+00:02:37,744 --> 00:02:41,577
+Y si el tiovivo gira al revés, la pelota se tuerce hacia el otro lado.
+
+51
+00:02:41,627 --> 00:02:44,421
+Todos los vientos del planeta cambian de dirección.
+
+52
+00:02:44,471 --> 00:02:47,310
+Y el primer lugar que lo nota... es Europa.
+
+53
+00:02:48,360 --> 00:02:51,476
+Hoy, Europa tiene un regalo que casi nadie conoce.
+
+54
+00:02:51,526 --> 00:02:56,101
+Los vientos del oeste soplan desde el Atlántico y traen aire templado del océano.
+
+55
+00:02:56,151 --> 00:03:01,588
+Y una enorme cinta transportadora de agua sube calor desde el trópico hasta nuestras costas.
+
+56
+00:03:01,638 --> 00:03:05,810
+Por eso Galicia, Lisboa o Londres tienen inviernos suaves.
+
+57
+00:03:05,860 --> 00:03:10,743
+Y eso que Londres está más al norte que Montreal o Quebec,
+
+58
+00:03:10,793 --> 00:03:11,143
+donde el invierno es durísimo.
+
+59
+00:03:11,193 --> 00:03:14,329
+En la Tierra al revés, ese regalo desaparece.
+
+60
+00:03:14,379 --> 00:03:18,776
+El viento ya no llega del océano: llega del interior helado del continente.
+
+61
+00:03:18,826 --> 00:03:21,138
+Y la cinta del Atlántico se detiene.
+
+62
+00:03:21,188 --> 00:03:25,351
+Hoy mueve diecinueve millones de metros cúbicos de agua por segundo.
+
+63
+00:03:25,401 --> 00:03:29,204
+En la simulación... deja de formarse una corriente estable.
+
+64
+00:03:29,254 --> 00:03:30,404
+¿El resultado?
+
+65
+00:03:30,454 --> 00:03:35,035
+En invierno, el hielo marino envuelve Gran Bretaña y baja hasta el golfo de Vizcaya.
+
+66
+00:03:35,085 --> 00:03:38,316
+Un mar con hielo a las puertas de la costa cantábrica.
+
+67
+00:03:38,366 --> 00:03:39,848
+¿Y cuánto frío haría?
+
+68
+00:03:39,898 --> 00:03:40,362
+En el noroeste de Europa,
+
+69
+00:03:40,412 --> 00:03:44,589
+los inviernos serían más de veinte grados más fríos que ahora.
+
+70
+00:03:44,639 --> 00:03:48,832
+Piensa en el día más frío de tu invierno... y réstale veinte grados.
+
+71
+00:03:48,882 --> 00:03:52,215
+Pero al otro lado del Atlántico pasa justo lo contrario.
+
+72
+00:03:52,265 --> 00:03:57,503
+La costa este de Estados Unidos se vuelve más templada, y Terranova y Labrador,
+
+73
+00:03:57,553 --> 00:03:59,617
+en Canadá, se quedan sin hielo marino en invierno.
+
+74
+00:03:59,667 --> 00:04:03,138
+Es como si Europa y América se hubieran intercambiado el clima.
+
+75
+00:04:03,188 --> 00:04:06,592
+Y ese intercambio tiene una consecuencia todavía mayor.
+
+76
+00:04:06,642 --> 00:04:08,898
+En el lugar más seco del planeta.
+
+77
+00:04:09,948 --> 00:04:10,804
+El Sáhara.
+
+78
+00:04:10,854 --> 00:04:13,813
+Unos nueve millones de kilómetros cuadrados de arena.
+
+79
+00:04:13,863 --> 00:04:16,490
+Y en gran parte está ahí por culpa del viento:
+
+80
+00:04:16,540 --> 00:04:20,461
+los alisios cruzan el continente desde el este y llegan secos.
+
+81
+00:04:20,511 --> 00:04:23,720
+En la Tierra al revés, el viento cambia de lado.
+
+82
+00:04:23,770 --> 00:04:27,290
+Ahora llega desde el océano Atlántico... cargado de humedad.
+
+83
+00:04:27,340 --> 00:04:29,446
+Y la descarga sobre África.
+
+84
+00:04:29,496 --> 00:04:30,258
+En la simulación,
+
+85
+00:04:30,308 --> 00:04:36,730
+toda la franja seca que va desde África occidental hasta Oriente Medio se cubre de bosques y praderas húmedas.
+
+86
+00:04:36,780 --> 00:04:38,053
+Adiós al Sáhara.
+
+87
+00:04:38,103 --> 00:04:40,188
+Y adiós a los desiertos de Arabia.
+
+88
+00:04:40,238 --> 00:04:43,936
+Y lo más curioso: el Sáhara ya fue verde de verdad.
+
+89
+00:04:43,986 --> 00:04:45,828
+Hace unos diez mil años había lagos,
+
+90
+00:04:45,878 --> 00:04:49,450
+hipopótamos y cocodrilos donde hoy solo hay arena.
+
+91
+00:04:49,500 --> 00:04:52,668
+Las pinturas rupestres del desierto todavía lo cuentan.
+
+92
+00:04:52,718 --> 00:04:57,480
+En total, la Tierra al revés tendría un veinticinco por ciento menos de desierto.
+
+93
+00:04:57,530 --> 00:05:00,834
+Unos once millones de kilómetros cuadrados reverdeciendo.
+
+94
+00:05:00,884 --> 00:05:03,904
+Más que toda la superficie de Estados Unidos.
+
+95
+00:05:03,954 --> 00:05:06,266
+Pero la naturaleza no regala nada.
+
+96
+00:05:06,316 --> 00:05:09,968
+Si un desierto desaparece... otro aparece en algún sitio.
+
+97
+00:05:10,018 --> 00:05:13,689
+Y aparece en un lugar que muchos de vosotros conocéis muy bien.
+
+98
+00:05:14,739 --> 00:05:15,603
+Argentina.
+
+99
+00:05:15,653 --> 00:05:19,163
+Hoy, la Pampa es una de las tierras más fértiles del mundo: trigo, maíz, soja,
+
+100
+00:05:19,213 --> 00:05:22,090
+ganado.
+
+101
+00:05:22,140 --> 00:05:25,013
+Y vive de la lluvia que le traen los vientos húmedos.
+
+102
+00:05:25,063 --> 00:05:29,576
+En la Tierra al revés, esos vientos cambian de lado y la humedad deja de llegar.
+
+103
+00:05:29,626 --> 00:05:30,887
+Y según la simulación,
+
+104
+00:05:30,937 --> 00:05:35,604
+el sur de Brasil y Argentina se convierten en el mayor desierto del planeta.
+
+105
+00:05:35,654 --> 00:05:40,332
+Imagina Buenos Aires, Rosario o Córdoba rodeadas de tierra seca.
+
+106
+00:05:40,382 --> 00:05:44,344
+Porto Alegre, en el sur de Brasil, en medio de un paisaje árido.
+
+107
+00:05:44,394 --> 00:05:47,667
+El granero de Sudamérica... convertido en arena.
+
+108
+00:05:47,717 --> 00:05:48,809
+Y no solo ahí.
+
+109
+00:05:48,859 --> 00:05:51,361
+El sur de Estados Unidos también se seca.
+
+110
+00:05:51,411 --> 00:05:51,761
+Mientras,
+
+111
+00:05:51,811 --> 00:05:56,665
+el norte de África y el suroeste de Asia se vuelven más frescos y lluviosos.
+
+112
+00:05:56,715 --> 00:05:59,587
+El mapa entero del planeta se reorganiza.
+
+113
+00:05:59,637 --> 00:06:02,864
+Ahora dime en los comentarios: ¿desde dónde nos ves?
+
+114
+00:06:02,914 --> 00:06:06,283
+¿Tu país saldría ganando o perdiendo en la Tierra al revés?
+
+115
+00:06:06,333 --> 00:06:08,198
+Leo todos los comentarios.
+
+116
+00:06:08,248 --> 00:06:11,773
+Porque todavía queda por cambiar la parte más grande del planeta.
+
+117
+00:06:11,823 --> 00:06:15,528
+Y ahí, la simulación encontró algo que nadie esperaba.
+
+118
+00:06:16,578 --> 00:06:17,618
+Los océanos.
+
+119
+00:06:17,668 --> 00:06:20,579
+Funcionan como una cinta transportadora gigante:
+
+120
+00:06:20,629 --> 00:06:23,600
+el agua fría y salada se hunde cerca de los polos,
+
+121
+00:06:23,650 --> 00:06:27,072
+viaja por el fondo y vuelve a subir a miles de kilómetros.
+
+122
+00:06:27,122 --> 00:06:29,896
+Así se reparte el calor por todo el planeta.
+
+123
+00:06:29,946 --> 00:06:33,593
+Hoy, el gran motor de esa cinta está en el Atlántico Norte.
+
+124
+00:06:33,643 --> 00:06:37,396
+En la Tierra al revés, se muda... al Pacífico.
+
+125
+00:06:37,446 --> 00:06:42,153
+Y allí aparece una corriente de veintitrés millones de metros cúbicos por segundo.
+
+126
+00:06:42,203 --> 00:06:44,587
+Más potente que la del Atlántico actual.
+
+127
+00:06:44,637 --> 00:06:48,086
+Pero el cambio más inquietante ocurre en el océano Índico.
+
+128
+00:06:48,136 --> 00:06:51,482
+Allí se forma una enorme zona con muy poco oxígeno.
+
+129
+00:06:51,532 --> 00:06:55,925
+Un desierto bajo el mar, donde a casi ningún pez le resulta fácil vivir.
+
+130
+00:06:55,975 --> 00:06:57,114
+¿Y quién gana?
+
+131
+00:06:57,164 --> 00:06:59,667
+Unos seres diminutos y antiquísimos: las cianobacterias.
+
+132
+00:06:59,717 --> 00:07:05,761
+En la simulación pasan a ser los principales productores de vida del norte del Índico.
+
+133
+00:07:05,811 --> 00:07:06,524
+Sí:
+
+134
+00:07:06,574 --> 00:07:11,543
+los mismos microbios que hace más de dos mil millones de años llenaron de oxígeno la atmósfera...
+
+135
+00:07:11,593 --> 00:07:12,861
+vuelven a mandar.
+
+136
+00:07:12,911 --> 00:07:16,135
+Si este vídeo te está volando la cabeza, dale a me gusta.
+
+137
+00:07:16,185 --> 00:07:17,851
+Así se lo enseñamos a más gente.
+
+138
+00:07:17,901 --> 00:07:21,150
+Todo esto, por un simple cambio en el sentido del giro.
+
+139
+00:07:21,200 --> 00:07:26,092
+Y ahora la gran pregunta: ¿existe algún mundo donde esto haya pasado de verdad?
+
+140
+00:07:27,142 --> 00:07:27,873
+Existe.
+
+141
+00:07:27,923 --> 00:07:30,084
+Y lo ves muchas noches sin saberlo:
+
+142
+00:07:30,134 --> 00:07:33,271
+es el punto más brillante del cielo después de la Luna.
+
+143
+00:07:33,321 --> 00:07:34,375
+Venus.
+
+144
+00:07:34,425 --> 00:07:37,911
+En Venus, el Sol sale por el oeste y se pone por el este.
+
+145
+00:07:37,961 --> 00:07:40,519
+Gira al revés que casi todos los planetas.
+
+146
+00:07:40,569 --> 00:07:46,255
+Y tan despacio que una vuelta sobre sí mismo dura doscientos cuarenta y tres días terrestres.
+
+147
+00:07:46,305 --> 00:07:48,574
+Su día es más largo que su año.
+
+148
+00:07:48,624 --> 00:07:49,508
+¿Por qué?
+
+149
+00:07:49,558 --> 00:07:51,368
+Nadie lo sabe con certeza.
+
+150
+00:07:51,418 --> 00:07:54,429
+Una hipótesis dice que un choque gigante, hace miles de millones de años,
+
+151
+00:07:54,479 --> 00:07:56,475
+lo hizo volcar.
+
+152
+00:07:56,525 --> 00:07:57,310
+Otra, que su atmósfera, densísima,
+
+153
+00:07:57,360 --> 00:07:59,364
+lo fue frenando poco a poco hasta darle la vuelta.
+
+154
+00:07:59,414 --> 00:08:02,009
+Y no es el único rebelde.
+
+155
+00:08:02,059 --> 00:08:05,297
+Urano está tumbado: su eje está inclinado unos noventa y ocho grados,
+
+156
+00:08:05,347 --> 00:08:10,747
+así que rueda alrededor del Sol como una pelota.
+
+157
+00:08:10,797 --> 00:08:13,463
+Y nuestra Tierra tampoco gira siempre igual.
+
+158
+00:08:13,513 --> 00:08:15,486
+La Luna la frena poco a poco.
+
+159
+00:08:15,536 --> 00:08:19,803
+Hace unos seiscientos millones de años, un día duraba unas veintidós horas.
+
+160
+00:08:19,853 --> 00:08:23,587
+Y cada siglo, el día se alarga un par de milésimas de segundo.
+
+161
+00:08:23,637 --> 00:08:25,182
+Así que ya lo sabes.
+
+162
+00:08:25,232 --> 00:08:26,899
+Si la Tierra girara al revés: el Sol saldría por el oeste.
+
+163
+00:08:26,949 --> 00:08:28,819
+Europa tendría inviernos de hielo.
+
+164
+00:08:28,869 --> 00:08:31,113
+El Sáhara sería verde.
+
+165
+00:08:31,163 --> 00:08:32,862
+Y Argentina, el mayor desierto del mundo.
+
+166
+00:08:32,912 --> 00:08:38,360
+¿Qué pregunta imposible quieres que respondamos ahora?
+
+167
+00:08:38,410 --> 00:08:41,833
+Escríbela en los comentarios: quizá sea nuestro próximo vídeo.
+
+168
+00:08:41,883 --> 00:08:46,342
+Y si te preguntas qué pasaría si se apagara el Sol, tienes el vídeo justo aquí.
+
+169
+00:08:46,392 --> 00:08:49,039
+Suscríbete a La Gran Pregunta y te veo dentro.
+
