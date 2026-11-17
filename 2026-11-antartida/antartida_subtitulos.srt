@@ -1,0 +1,632 @@
+1
+00:00:00,300 --> 00:00:03,132
+¿Qué pasaría si se derritiera toda la Antártida?
+
+2
+00:00:03,182 --> 00:00:05,882
+El mar subiría cincuenta y ocho metros.
+
+3
+00:00:05,932 --> 00:00:08,368
+Lo que mide un edificio de unos veinte pisos.
+
+4
+00:00:08,418 --> 00:00:09,726
+Madrid se salvaría.
+
+5
+00:00:09,776 --> 00:00:12,213
+Buenos Aires, casi entera, no.
+
+6
+00:00:12,263 --> 00:00:15,284
+Pero lo más extraño pasaría justo al lado del hielo.
+
+7
+00:00:15,334 --> 00:00:17,203
+Allí, en vez de subir... el mar bajaría.
+
+8
+00:00:17,253 --> 00:00:21,474
+Hoy vas a ver qué ciudades desaparecen, cuáles se salvan,
+
+9
+00:00:21,524 --> 00:00:22,611
+y por qué el océano no sube igual en todas partes.
+
+10
+00:00:22,661 --> 00:00:29,329
+Todo con datos de la NASA y de los mayores estudios sobre la Antártida.
+
+11
+00:00:29,379 --> 00:00:32,638
+Y quédate hasta el final, porque hay un detalle que lo cambia todo:
+
+12
+00:00:32,688 --> 00:00:36,533
+aunque el planeta volviera a enfriarse, ese hielo no volvería.
+
+13
+00:00:36,583 --> 00:00:37,736
+Te explico por qué.
+
+14
+00:00:38,786 --> 00:00:41,771
+Para entenderlo, primero hay que ver el tamaño del monstruo.
+
+15
+00:00:41,821 --> 00:00:45,597
+La Antártida mide unos catorce millones de kilómetros cuadrados.
+
+16
+00:00:45,647 --> 00:00:47,302
+Casi una Europa y media.
+
+17
+00:00:47,352 --> 00:00:49,678
+Y casi todo está enterrado bajo hielo.
+
+18
+00:00:49,728 --> 00:00:53,008
+De media, una capa de casi dos kilómetros de grosor.
+
+19
+00:00:53,058 --> 00:00:55,142
+En algunos puntos, casi cinco.
+
+20
+00:00:55,192 --> 00:00:57,143
+Más alto que el Teide entero... pero de hielo.
+
+21
+00:00:57,193 --> 00:01:00,646
+Y es el lugar más frío del planeta:
+
+22
+00:01:00,696 --> 00:01:04,536
+en la base rusa de Vostok se midieron casi noventa grados bajo cero.
+
+23
+00:01:04,586 --> 00:01:07,061
+Ahí el hielo no se derrite ni en verano.
+
+24
+00:01:07,111 --> 00:01:10,772
+En total, unos veintisiete millones de kilómetros cúbicos.
+
+25
+00:01:10,822 --> 00:01:11,564
+Si lo extendieras sobre España,
+
+26
+00:01:11,614 --> 00:01:15,597
+la cubriría con una capa de más de cincuenta kilómetros.
+
+27
+00:01:15,647 --> 00:01:17,780
+Seis veces la altura del Everest.
+
+28
+00:01:17,830 --> 00:01:22,211
+Ahí está aproximadamente el noventa por ciento de todo el hielo del planeta.
+
+29
+00:01:22,261 --> 00:01:24,645
+Y la mayor parte del agua dulce de la Tierra.
+
+30
+00:01:24,695 --> 00:01:28,417
+Si te gustan estas preguntas imposibles, suscríbete a La Gran Pregunta.
+
+31
+00:01:28,467 --> 00:01:30,031
+Cada semana, una nueva.
+
+32
+00:01:30,081 --> 00:01:34,178
+Ahora imagina que todo eso se convierte en agua y corre hacia el océano.
+
+33
+00:01:34,228 --> 00:01:35,735
+¿Hasta dónde llega el mar?
+
+34
+00:01:36,785 --> 00:01:38,633
+Vamos a subirlo poco a poco.
+
+35
+00:01:38,683 --> 00:01:43,793
+Con cinco metros más, Miami, Venecia y Guayaquil quedan con el agua en las calles.
+
+36
+00:01:43,843 --> 00:01:46,179
+Ámsterdam ya vive detrás de diques: con cinco metros más,
+
+37
+00:01:46,229 --> 00:01:49,581
+dependería por completo de ellos.
+
+38
+00:01:49,631 --> 00:01:53,784
+Con veinticinco metros, el mar entra en Sevilla,
+
+39
+00:01:53,834 --> 00:01:56,961
+sube por el Guadalquivir y alcanza buena parte de Valencia y de la costa de Barcelona.
+
+40
+00:01:57,011 --> 00:01:59,641
+Y mucho antes, con solo unos pocos metros,
+
+41
+00:01:59,691 --> 00:02:03,799
+ya habrían desaparecido el delta del Ebro, Doñana o La Manga del Mar Menor.
+
+42
+00:02:03,849 --> 00:02:07,199
+Y con cincuenta y ocho metros, el mapa del mundo cambia.
+
+43
+00:02:07,249 --> 00:02:11,420
+Buenos Aires, Montevideo o Barranquilla, en gran parte bajo el agua.
+
+44
+00:02:11,470 --> 00:02:13,334
+Casi todos los Países Bajos.
+
+45
+00:02:13,384 --> 00:02:15,065
+Florida, casi entera.
+
+46
+00:02:15,115 --> 00:02:20,608
+En Nueva York, el agua cubre todo el pedestal de la Estatua de la Libertad...
+
+47
+00:02:20,658 --> 00:02:21,758
+y le llega a las rodillas.
+
+48
+00:02:21,808 --> 00:02:23,260
+¿Y quién se salva?
+
+49
+00:02:23,310 --> 00:02:23,759
+Las ciudades altas.
+
+50
+00:02:23,809 --> 00:02:25,827
+Madrid, a unos seiscientos cincuenta metros.
+
+51
+00:02:25,877 --> 00:02:28,622
+Ciudad de México, a más de dos mil doscientos.
+
+52
+00:02:28,672 --> 00:02:31,214
+Bogotá, a más de dos mil seiscientos.
+
+53
+00:02:31,264 --> 00:02:33,698
+Quito y La Paz, todavía más arriba.
+
+54
+00:02:33,748 --> 00:02:36,981
+Para ellas, el mar seguiría muy, muy lejos.
+
+55
+00:02:37,031 --> 00:02:39,681
+Pero subir el mar es solo la mitad de la historia.
+
+56
+00:02:39,731 --> 00:02:43,086
+Porque debajo del hielo hay algo que nadie ha pisado nunca.
+
+57
+00:02:44,136 --> 00:02:44,758
+Tierra.
+
+58
+00:02:44,808 --> 00:02:49,679
+Un continente entero aplastado durante millones de años por un peso inmenso.
+
+59
+00:02:49,729 --> 00:02:50,584
+Tanto,
+
+60
+00:02:50,634 --> 00:02:55,532
+que gran parte de la roca de la Antártida Occidental está hoy por debajo del nivel del mar.
+
+61
+00:02:55,582 --> 00:03:00,025
+Piensa en un colchón cuando te levantas: poco a poco, recupera su forma.
+
+62
+00:03:00,075 --> 00:03:04,995
+Sin el hielo, la roca de la Antártida haría lo mismo y subiría cientos de metros.
+
+63
+00:03:05,045 --> 00:03:08,036
+Muy despacio, durante miles de años.
+
+64
+00:03:08,086 --> 00:03:11,269
+Y la Antártida Occidental ni siquiera sería un continente:
+
+65
+00:03:11,319 --> 00:03:14,780
+sería un archipiélago de islas separadas por mares nuevos.
+
+66
+00:03:14,830 --> 00:03:17,152
+Y ahora viene lo más raro de todo.
+
+67
+00:03:17,202 --> 00:03:22,472
+El hielo de la Antártida es tan enorme que su gravedad atrae el agua del océano hacia él.
+
+68
+00:03:22,522 --> 00:03:26,172
+Como un imán gigante que mantiene el mar más alto en sus costas.
+
+69
+00:03:26,222 --> 00:03:27,657
+Si el hielo desaparece, ese tirón se acaba.
+
+70
+00:03:27,707 --> 00:03:30,946
+El agua se escapa hacia el norte.
+
+71
+00:03:30,996 --> 00:03:33,332
+Y junto a la Antártida, el mar baja.
+
+72
+00:03:33,382 --> 00:03:36,991
+Incluso en Tierra del Fuego, en el extremo sur de Argentina y Chile,
+
+73
+00:03:37,041 --> 00:03:38,546
+el mar podría bajar.
+
+74
+00:03:38,596 --> 00:03:40,952
+Pero esa agua tiene que ir a algún sitio.
+
+75
+00:03:41,002 --> 00:03:45,204
+Según los cálculos de Harvard, si solo se derritiera la Antártida Occidental,
+
+76
+00:03:45,254 --> 00:03:50,590
+en la costa este de Estados Unidos el mar subiría un treinta por ciento más que la media mundial.
+
+77
+00:03:50,640 --> 00:03:53,221
+Así que el mar no sube igual para todos.
+
+78
+00:03:53,271 --> 00:03:56,680
+Y lo que pasa debajo del agua es todavía más importante.
+
+79
+00:03:57,730 --> 00:04:01,892
+Alrededor de la Antártida se forma el agua más fría y densa del planeta.
+
+80
+00:04:01,942 --> 00:04:06,535
+Se hunde hasta el fondo y viaja hacia el norte, llevando oxígeno y nutrientes.
+
+81
+00:04:06,585 --> 00:04:10,201
+Llega a cerca del cuarenta por ciento de las profundidades del océano.
+
+82
+00:04:10,251 --> 00:04:14,141
+El agua del deshielo es dulce y ligera, y frena ese motor.
+
+83
+00:04:14,191 --> 00:04:19,502
+Un estudio publicado en Nature en 2023 calcula que, solo con el deshielo actual,
+
+84
+00:04:19,552 --> 00:04:23,839
+esa corriente podría debilitarse un cuarenta por ciento hacia 2050.
+
+85
+00:04:23,889 --> 00:04:25,960
+Con toda la Antártida derretida,
+
+86
+00:04:26,010 --> 00:04:28,916
+el fondo del mar se quedaría sin su gran respiración.
+
+87
+00:04:28,966 --> 00:04:30,430
+Y hay otro problema.
+
+88
+00:04:30,480 --> 00:04:35,015
+El hielo es un espejo: devuelve al espacio la mayor parte de la luz del Sol.
+
+89
+00:04:35,065 --> 00:04:37,949
+La roca y el océano, en cambio, son oscuros.
+
+90
+00:04:37,999 --> 00:04:39,866
+La absorben y se calientan.
+
+91
+00:04:39,916 --> 00:04:40,866
+Menos hielo, más calor.
+
+92
+00:04:40,916 --> 00:04:42,674
+Más calor, menos hielo.
+
+93
+00:04:42,724 --> 00:04:43,677
+Un círculo que se alimenta solo.
+
+94
+00:04:43,727 --> 00:04:49,894
+Ahora dime en los comentarios: ¿a qué altura sobre el mar está tu ciudad?
+
+95
+00:04:49,944 --> 00:04:52,216
+¿Se salvaría de los cincuenta y ocho metros?
+
+96
+00:04:52,266 --> 00:04:55,515
+Pero espera, porque la Antártida no siempre fue blanca.
+
+97
+00:04:55,565 --> 00:04:58,128
+Y lo que encontraron bajo su mar lo demuestra.
+
+98
+00:04:59,178 --> 00:04:59,640
+En 2017,
+
+99
+00:04:59,690 --> 00:05:05,016
+un barco de investigación alemán perforó el fondo del mar frente a la Antártida Occidental,
+
+100
+00:05:05,066 --> 00:05:07,917
+a menos de novecientos kilómetros del Polo Sur.
+
+101
+00:05:07,967 --> 00:05:13,679
+Dentro del tubo de sedimento apareció algo imposible: raíces fósiles.
+
+102
+00:05:13,729 --> 00:05:14,486
+Polen.
+
+103
+00:05:14,536 --> 00:05:15,631
+Esporas.
+
+104
+00:05:15,681 --> 00:05:20,028
+Los restos de una selva templada de hace unos noventa millones de años.
+
+105
+00:05:20,078 --> 00:05:23,211
+Allí la temperatura media rondaba los doce grados.
+
+106
+00:05:23,261 --> 00:05:25,629
+Más que la de muchas ciudades europeas hoy.
+
+107
+00:05:25,679 --> 00:05:28,444
+Y eso con cuatro meses al año de noche polar, sin ver el Sol.
+
+108
+00:05:28,494 --> 00:05:29,782
+Y no estaba vacía.
+
+109
+00:05:29,832 --> 00:05:31,493
+En la isla Seymour, junto a la península Antártica,
+
+110
+00:05:31,543 --> 00:05:34,330
+se han encontrado fósiles de dinosaurios,
+
+111
+00:05:34,380 --> 00:05:39,010
+de pingüinos gigantes de casi dos metros y hasta de marsupiales,
+
+112
+00:05:39,060 --> 00:05:43,141
+parientes lejanos de los de Sudamérica y Australia.
+
+113
+00:05:43,191 --> 00:05:44,725
+¿Cómo era posible?
+
+114
+00:05:44,775 --> 00:05:45,301
+Para explicar ese clima,
+
+115
+00:05:45,351 --> 00:05:52,462
+los científicos calcularon que el aire tenía entre mil cien y mil setecientas partes por millón de dióxido de carbono.
+
+116
+00:05:52,512 --> 00:05:55,051
+Hoy tenemos unas cuatrocientas veinte.
+
+117
+00:05:55,101 --> 00:05:58,404
+Es decir: entre tres y cuatro veces más.
+
+118
+00:05:58,454 --> 00:06:04,740
+El hielo de la Antártida empezó a crecer hace unos treinta y cuatro millones de años,
+
+119
+00:06:04,790 --> 00:06:07,007
+cuando ese dióxido de carbono bajó.
+
+120
+00:06:07,057 --> 00:06:09,304
+Y desde entonces, ha estado ahí.
+
+121
+00:06:09,354 --> 00:06:11,173
+Entonces, la gran pregunta: ¿puede volver a desaparecer?
+
+122
+00:06:12,223 --> 00:06:13,196
+Desde el espacio,
+
+123
+00:06:13,246 --> 00:06:17,653
+los satélites GRACE de la NASA pesan el hielo midiendo cómo cambia su gravedad.
+
+124
+00:06:17,703 --> 00:06:19,029
+Y según sus datos,
+
+125
+00:06:19,079 --> 00:06:25,511
+desde 2002 la Antártida pierde de media unos ciento treinta y cinco mil millones de toneladas de hielo al año.
+
+126
+00:06:25,561 --> 00:06:26,992
+Parece muchísimo.
+
+127
+00:06:27,042 --> 00:06:31,592
+Pero a ese ritmo, tardaría alrededor de ciento ochenta mil años en desaparecer.
+
+128
+00:06:31,642 --> 00:06:34,237
+El problema es que el ritmo no es fijo.
+
+129
+00:06:34,287 --> 00:06:36,434
+Porque no toda la Antártida es igual.
+
+130
+00:06:36,484 --> 00:06:37,973
+La parte oriental, la más grande,
+
+131
+00:06:38,023 --> 00:06:41,877
+descansa sobre roca por encima del mar y es bastante estable.
+
+132
+00:06:41,927 --> 00:06:44,995
+La occidental se apoya en roca por debajo del mar,
+
+133
+00:06:45,045 --> 00:06:47,587
+y el agua templada puede colarse por debajo.
+
+134
+00:06:47,637 --> 00:06:51,190
+Allí está el glaciar Thwaites, más o menos del tamaño de Florida,
+
+135
+00:06:51,240 --> 00:06:53,738
+al que llaman el glaciar del Juicio Final.
+
+136
+00:06:53,788 --> 00:06:57,451
+Él solo podría subir el mar unos sesenta y cinco centímetros.
+
+137
+00:06:57,501 --> 00:07:00,486
+Un estudio de 2020 en Nature lo calculó así: hasta dos grados de calentamiento,
+
+138
+00:07:00,536 --> 00:07:05,731
+el mar sube algo más de un metro por cada grado a largo plazo.
+
+139
+00:07:05,781 --> 00:07:09,701
+Entre dos y seis grados, casi dos metros y medio por grado.
+
+140
+00:07:09,751 --> 00:07:14,260
+Y entre seis y nueve grados... unos diez metros por cada grado.
+
+141
+00:07:14,310 --> 00:07:16,583
+Y otro estudio calculó que si quemáramos todo el carbón,
+
+142
+00:07:16,633 --> 00:07:21,512
+el petróleo y el gas que quedan, la Antártida acabaría casi sin hielo.
+
+143
+00:07:21,562 --> 00:07:25,461
+En el primer milenio, el mar subiría más de tres metros por siglo.
+
+144
+00:07:25,511 --> 00:07:27,655
+Y aquí está el detalle que te prometí.
+
+145
+00:07:27,705 --> 00:07:32,006
+Aunque después la temperatura volviera a la de hoy, el hielo no volvería.
+
+146
+00:07:32,056 --> 00:07:39,272
+La Antártida Occidental no recuperaría su tamaño actual hasta que el planeta estuviera más frío que antes de la Revolución Industrial.
+
+147
+00:07:39,322 --> 00:07:42,483
+Lo que se pierde, se pierde durante milenios.
+
+148
+00:07:42,533 --> 00:07:43,985
+Así que ya lo sabes.
+
+149
+00:07:44,035 --> 00:07:48,340
+Si se derritiera toda la Antártida: el mar subiría cincuenta y ocho metros.
+
+150
+00:07:48,390 --> 00:07:49,621
+Madrid se salvaría, Buenos Aires no.
+
+151
+00:07:49,671 --> 00:07:53,074
+Y junto al hielo, el mar bajaría.
+
+152
+00:07:53,124 --> 00:07:54,436
+No pasará en un día.
+
+153
+00:07:54,486 --> 00:07:58,539
+Pero lo que hagamos este siglo decidirá cuánto de esa historia empieza.
+
+154
+00:07:58,589 --> 00:08:01,513
+¿Qué otra cosa del planeta quieres que hagamos desaparecer?
+
+155
+00:08:01,563 --> 00:08:03,218
+Escríbelo en los comentarios.
+
+156
+00:08:03,268 --> 00:08:06,447
+Y si te preguntas qué pasaría si la Tierra girara al revés,
+
+157
+00:08:06,497 --> 00:08:08,053
+tienes el vídeo justo aquí.
+
+158
+00:08:08,103 --> 00:08:10,769
+Suscríbete a La Gran Pregunta y te veo dentro.
+
